@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on my wallet payment web application<br>🌱 I’m currently learning websockets and WebRTC<br>💬 Ask me about centering a div.
+🔭 I’m currently working on my wallet payment web application<br>🌱 I’m currently learning websockets and WebRTC<br>
 
 
 ## 🌐 Socials:
