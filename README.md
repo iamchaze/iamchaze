@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on my wallet payment web application<br>🌱 I’m currently learning websockets and WebRTC<br>
+🔭 I’m currently working on my Wallet Payment Web Application<br>🌱 I’m currently learning Websockets and WebRTC<br>
 
 
 ## 🌐 Socials:
